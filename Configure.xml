@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf8"?>
+<ICTCLAS>
+    <MaxBlockQueue>10</MaxBlockQueue>
+    <MaxCrawlThreadCount>10</MaxCrawlThreadCount>   
+    <MaxBlockingQueueCapacity>20</MaxBlockingQueueCapacity>
+    <GetFilePath>D:\\文档\\外链\\BACK</GetFilePath>  /home/UrlAnalyze/JFILE/SEND
+    <CrawledFilePath>D:\\文档\\外链\\to</CrawledFilePath>/home/UrlAnalyze/JFILE/RECEIVE 
+    <ErrorFilePath>D:\\文档\\外链\\error</ErrorFilePath>/home/UrlAnalyze/JFILE/RECEIVE 
+    <timeout>10000</timeout>>
+</ICTCLAS>
+
